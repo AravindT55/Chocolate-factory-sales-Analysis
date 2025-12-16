@@ -1,10 +1,22 @@
 # Chocolate-factory-sales-Analysis
 
+## 📌 Problem Statement
+Understand sales performance and identify key trends.
+
 📊 Tools Used
 
 Power BI – Dashboard creation
 
 Excel/CSV – Raw data
+
+## 📷 Dashboard Preview
+![Dashboard](dashboard.png)
+
+
+## 📁 Files
+- sales_data.xlsx :
+- dashboard.pbix
+
 
 SQL – Data cleaning & metrics
 
