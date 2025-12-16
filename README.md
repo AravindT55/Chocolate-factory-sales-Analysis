@@ -10,7 +10,7 @@ Power BI – Dashboard creation
 Excel/CSV – Raw data
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard]([dashboard.png](https://github.com/AravindT55/Chocolate-factory-sales-Analysis/blob/main/Screenshot%202025-12-12%20193317.png))
 
 
 ## 📁 Files
